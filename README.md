@@ -1,6 +1,6 @@
 # Mini Projects
 
-Mini project in :
+Mini Projects in :
 
 - Quantitative Finance
 - Signal Processing
