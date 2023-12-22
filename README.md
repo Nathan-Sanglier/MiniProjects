@@ -4,7 +4,7 @@ Mini Projects in :
 
 - Quantitative Finance
 - Signal Processing
-- Optimization with Continuous Variables
-- Optimization with Discrete Variables
+- Optimization in Continuous Space
+- Optimization in Discrete Space
 - Machine Learning & Deep Learning
 - etc
